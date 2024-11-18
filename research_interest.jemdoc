@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{research_interest.html}, nofooter
+
+== Research
+
+Cong Ling's research covers coding and information theory, post-quantum cryptography, communications, and signal processing, with an emphasis on lattices and their applications. Lattices, which generalize the concept of integers to multiple dimensions, are central objects in modern number theory and have numerous applications in information theory, sphere packing, wireless communications, and post-quantum cryptography.
+
+Our research lies at the interface of information theory, number theory, cryptography, and quantum information.
+
+=== Research Interests
+
+- Lattice coding and cryptography
+- Coding and wireless communications
+- Information theory
+- Signal processing
+
+=== Selected Research Projects
+
+- Bridging the Gap Between Lattice Coding and Lattice Cryptography — Post-Quantum Cryptography, EPSRC, 2019-2022
+- [https://www.imperial.ac.uk/security-institute/research/cyber/quantum-computing-and-lattice-based-cryptography/ Quantum Computing and Lattice-Based Cryptography], UK Government, 2017-2021
+- [http://www.phylaws-ict.org/ PHYLAWS (Physical Layer Wireless Security)], European Commission FP7, 2012-2016
+- LACONIC: Lattice Coding for Multiuser Wireless Communications, European Commission FP7, 2011-2013
+- Iterative (Turbo) Receiver Structures for the Future Generation Mobile Communications, National Science Foundation of China, 2000-2003
+- IAWICOM (Interference Aligned Wireless Communications), European Commission FP7, 2013-2015
+- CSFDA (Compressive Sensing Frequency Diverse Array), European Commission FP7, 2012-2014
+- Bayesian Compressed Sensing, UK MoD UDRC, 2012-2013
+- Adaptive Compressed Sensing for Wideband Dynamic Signals, UK MoD UDRC, 2011-2013
+- Lattice Reduction for Distributed MIMO Communications, Royal Society of UK, 2011-2013
+- Enabling Flexible Networks: Network Coding, Mobile VCE and EPSRC of UK, 2008-2010
+- Space-Time Communication Over Multiuser Fading Channels, Singapore Millennium Foundation, 2002-2004
+
+=== Patents
+
+- Ling Liu, Cong Ling, and Xin Kang, Polar Code Encoding for Fading Channel, Patent number EP3370341 (A1).
+- Christiane Kameni Ngassa, Francois Delaveau, Jean-Claude Belfiore, and Cong Ling, Key-Free Security of AIR Interface in Wireless Communications, Patent number FR3046316 (A1).
+- Timing, Range and Location Determining Method and Apparatus, UK patent filed 2013.
+
+=== News
+
+- Imperial College is awarded a [https://www.imperial.ac.uk/quantum-systems-engineering-hub/ Quantum Engineering Hub].
+- Imperial College is recognised as an [http://www.gchq.gov.uk/Press/Pages/Cyber-Security-Research-Centres-of-Excellence.aspx Academic Centre of Excellence in Cyber Security Research].
+- The Communications and Signal Processing Group hosts the University Defence Research Centre (UDRC) in Signal Processing, sponsored by the UK MoD.
+- Imperial College is a member of the Mobile Virtual Centre of Excellence (VCE).
+
+=== Grants
+
+- **PB0210: EPSRC TITAN Hub - DSIT Programme** - Engineering & Physical Sciences Research Council, Jan 2024 - Mar 2025
+- **PA6191: Establish a Future Communications Systems Early-Stage Federated Hub** - Engineering & Physical Sciences Research Council, May 2023 - Apr 2026

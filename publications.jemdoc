@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+
+== Publications
+
+=== New
+
+- Charles Grover, Cong Ling, Roope Vehkalahti, "Non-Commutative Ring Learning With Errors From Cyclic Algebras," [https://eprint.iacr.org/2019/680 submitted].
+- Jiabo Wang and Cong Ling, "Polar Sampler: Discrete Gaussian Sampling over the Integers Using Polar Codes," [https://eprint.iacr.org/2019/674 submitted].
+- Shanxiang Lyu, Christian Porter, Cong Ling, "Lattice Reduction over Imaginary Quadratic Fields," IEEE Trans. Signal Processing, vol. 68, pp. 6380–6393, Nov. 2020. [https://arxiv.org/abs/1806.03113 arXiv]
+- Ling Liu, Jinwen Shi, and Cong Ling, "Polar Lattices for Lossy Compression," IEEE Trans. Inform. Theory, to appear. [http://arxiv.org/abs/1501.05683 arXiv]
+- N. Mital, C. Ling, and D. Gunduz, "Secure Distributed Matrix Computation with Discrete Fourier Transform," [https://arxiv.org/abs/2007.03972 submitted].
+- H. Yan, C. Ling, "Smoothing Linear Codes by Rényi Divergence and Applications to Security Reduction," [https://arxiv.org/abs/2405.10124 arXiv], 2024.
+- L. Liu, S. Lyu, C. Ling, B. Bai, "On the quantization goodness of polar lattices," [https://arxiv.org/abs/2405.04051 arXiv], 2024.
+- JGF Souza, SIR Costa, C Ling, "Construction Lattices Extended to Hurwitz Quaternion Integers," 2024 IEEE International Symposium on Information Theory (ISIT), 2186-2191, 2024.
+- L. Liu, S. Lyu, C. Ling, B. Bai, "On the Equivalence Between Probabilistic Shaping and Geometric Shaping: A Polar Lattice Perspective," 2024 IEEE International Symposium on Information Theory (ISIT), 2174-2179, 2024.
+- A. Mendelsohn, C. Ling, "Fractional non-norm elements for division algebras, and an application to Cyclic Learning with Errors," Advances in Mathematics of Communications 18 (2), 410-424, 2024.
+- Z. Wang, Y. Xia, C. Ling, Y. Huang, "Randomized Iterative Sampling Decoding Algorithm For Large-Scale MIMO Detection," IEEE Transactions on Signal Processing, 2024.
+- C. Ling, A. Mendelsohn, "Algebraic Equipage for Learning with Errors in Cyclic Division Algebras," Cryptology ePrint Archive, 2024.
+- C. Ling, J. Liu, A. Mendelsohn, "On the Spinor Genus and the Distinguishing Lattice Isomorphism Problem," Cryptology ePrint Archive, 2024.
+- S. Lyu, L. Liu, C. Ling, "Learning with Quantization, Polar Quantizer, and Secure Source Coding," Cryptology ePrint Archive, 2024.
+
+=== Journal Papers
+
+- Shanxiang Lyu, Antonio Campello, Cong Ling, "Ring Compute-and-Forward over Block-Fading Channels," IEEE Trans. Inform. Theory, vol. 65, pp. 6931-6949, Nov 2019. [https://arxiv.org/abs/1805.02073 arXiv]
+- Zheng Wang and Cong Ling, "Lattice Gaussian Sampling by Markov Chain Monte Carlo: Bounded Distance Decoding and Trapdoor Sampling," IEEE Trans. Inform. Theory, vol. 65, pp. 3630-3645, June 2019. [https://arxiv.org/abs/1704.02673 arXiv]
+- Conghui Li, Lu Gan, and Cong Ling, "Coprime Sensing via Chinese Remaindering over Quadratic Fields," Part I, Part II, IEEE Trans. Signal Processing, vol. 67, pp. 2898–2910, 2911–2922, June 2019. [https://arxiv.org/abs/1808.07505 arXiv]
+- Antonio Campello, Daniel Dadush, Cong Ling, "AWGN-Goodness is Enough: Capacity-Achieving Lattice Codes based on Dithered Probabilistic Shaping," IEEE Trans. Inform. Theory, vol. 65, pp. 1961-1971, Mar. 2019. [https://arxiv.org/abs/1707.06688 arXiv]
+- S. Lyu, L. Liu, C. Ling, J. Lai, H. Chen, "Lattice codes for lattice-based PKE," Designs, Codes and Cryptography 92 (4), 917-939, 2024. [https://arxiv.org/abs/2401.10773 arXiv]
+- J. Wang, C. Ling, "Polar coding for Ring-LWE-based public key encryption," Cryptography and Communications 15 (2), 397-431, 2023.
+- L. Luzzi, C. Ling, MR Bloch, "Optimal rate-limited secret key generation from Gaussian sources using lattices," IEEE Transactions on Information Theory 69 (8), 4944-4960, 2023.
+
+=== Conference Papers
+
+- Jinwen Shi, Cong Ling, Osvaldo Simeone, Jörg Kliewer, "Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels," ISIT 2020. [https://arxiv.org/abs/1805.11698 arXiv]
+- Nitish Mital, Deniz Gündüz, Cong Ling, "Coded caching in a Multi-Server System with Random Topology," WCNC 2018. [https://arxiv.org/abs/1712.00649 arXiv]
+- Shanxiang Lyu, Christian Porter, Cong Ling, "Performance Limits of Lattice Reduction over Imaginary Quadratic Fields with Applications to Compute-and-Forward," ITW 2018. [https://arxiv.org/abs/1806.03113 arXiv]
+- Zheng Wang and Cong Ling, "Symmetric Metropolis-within-Gibbs Algorithm for Lattice Gaussian Sampling," ITW 2016.
+- A. Mendelsohn, C. Ling, "Middle-Products of Skew Polynomials and Learning with Errors," IMA International Conference on Cryptography and Coding, 199-219, 2023.
+- M. Zheng, C. Ling, "PAC Codes for Source and Joint Source-Channel Coding," 2023 IEEE Globecom Workshops (GC Wkshps), 1542-1547, 2023.
+- JGF Souza, SIR Costa, C Ling, "Multilevel Lattice Codes from Hurwitz Quaternions," arXiv preprint arXiv:2401.10773, 2024.
+
+=== Book/Book Chapter
+
+- Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, Ultrawideband Antennas: Design and Applications, Imperial College Press, 2010.
+- Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in Heterogeneous Cellular Networks, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.
+
+=== Talks
+
+- Workshop on interactions between number theory and wireless communication, York University, 2016.
+- Algebraic number theory for coding and cryptography, Durham Workshop on Interactions between algebra, coding theory, and cryptography, 2016.
+- "Achieving Secrecy Capacity With Polar Codes and Polar Lattices," Mathematical Tools of Information-Theoretic Security Workshop, Paris, 2015. [http://laneas.com/sites/default/files/attachments/20150923/Ling2015Achieving.pdf PDF]
+- Lattice Gaussian distributions: A new tool for coding and security, Oxford University, 2014.
